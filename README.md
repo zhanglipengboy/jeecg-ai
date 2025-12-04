@@ -143,6 +143,11 @@ AIGC模块是一个基于AI的自动化流程编排工具和聊天应用搭建�
 
 技术架构：
 -----------------------------------
+#### AI底层
+
+- [langchain4j](https://docs.langchain4j.info)
+- [jeecg-boot-starter-chatgpt](https://github.com/jeecgboot/jeecg-boot-starter/tree/springboot3/jeecg-boot-starter-chatgpt)
+
 
 #### 前端
 
