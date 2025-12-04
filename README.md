@@ -174,7 +174,12 @@ AIGC模块是一个基于AI的自动化流程编排工具和聊天应用搭建�
 - 默认提供MySQL5.7+数据库脚本
 
 
-## AI应用平台功能展示
+## 界面效果
+
+AI聊天
+
+![](https://oscimg.oschina.net/oscnet/up-979b78f4521ed0c9711e4277f15d23bc0de.png)
+
 
 AI模型列表
 
