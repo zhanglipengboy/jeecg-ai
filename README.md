@@ -42,7 +42,7 @@ AI视频介绍
 - [安装向量库 pgvector](https://help.jeecg.com/aigc/config)
 - QQ交流群：  1044827970
 - 在线演示：  https://boot3.jeecg.com
-
+- 视频教程： https://www.bilibili.com/video/BV1zmd7YFE4w
 
 
 功能大模块
