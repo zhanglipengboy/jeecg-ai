@@ -1,4 +1,4 @@
-[中文](./README.zh-CN.md) | [English](./README.md)
+English | [中文](./README.zh-CN.md)
 
 
 # Jeecg AI Platform

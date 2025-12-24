@@ -1,4 +1,4 @@
-[中文](./README.zh-CN.md) | [English](./README.md)
+[English](./README.md) | 中文
 
 Jeecg AI应用平台
 ===============
