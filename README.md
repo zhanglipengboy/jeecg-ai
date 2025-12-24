@@ -1,3 +1,6 @@
+[中文](./README.zh-CN.md) | [English](./README.md)
+
+
 # Jeecg AI Platform
 ===============
 
