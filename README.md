@@ -19,6 +19,10 @@ A full-stack AI development platform designed to help developers quickly build a
 
 Jeecg-AI is an **AIGC Application Development Platform** similar to `Dify`, featuring **Knowledge Base Q&A** capabilities. Built on Large Language Models (LLM) and RAG (Retrieval-Augmented Generation) technology, this AI application platform focuses on providing illustrated AI knowledge bases and intelligent chat functionality. With an intuitive interface, it supports knowledge base management, AI workflow orchestration, model configuration, vector database integration, and real-time monitoring, helping users transform knowledge into intelligent AI knowledge bases for precise and intelligent Q&A.
 
+> Industry-unique product focusing on the integration of AI application platforms with low-code solutions. Features include: AI application platform, no-code applications, AI reports, AI dashboards, AI display screens, and Chat AI reports.
+
+
+
 ## 🎥 Video Introduction
 
 [![AI Video Introduction](https://jeecgos.oss-cn-beijing.aliyuncs.com/files/jeecg_aivideo.png)](https://www.bilibili.com/video/BV1zmd7YFE4w)
